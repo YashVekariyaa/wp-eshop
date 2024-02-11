@@ -1,0 +1,2 @@
+UserName: root
+password: wp-admin
